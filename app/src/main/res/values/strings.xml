@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sms</string>
+    <string name="sms_sent">Sms sent</string>
+    <string name="sms_send">Send</string>
+    <string name="sms_sending">Sending</string>
+    <string name="sms_send_fail">Send fail</string>
+    <string name="sms_radio_off">No mobile connection</string>
+    <string name="sms_no_service">No service</string>
+    <string name="sms_null_pdu">SMS error</string>
+    <string name="sms_send_in_background">In background</string>
+    <string name="sms_close">Close</string>
+    <string name="sms_send_in_service">By service</string>
+    <string name="sms_title">Send to %1$s</string>
+    <string name="sms_delivered">%1s received message</string>
+</resources>
